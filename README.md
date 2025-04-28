@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @munna2014
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning laravel
 - 📫 sajedulmunna2@gmail.com
 
 <!---
